@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kishan Nimavat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_202,w_360,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1505835594/170918-cox-the-hackers-hitting-back-at-cybercriminals-hero_360_xxxtcg">
+<img align="right" alt="coding" width="375" src="https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_202,w_360,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1505835594/170918-cox-the-hackers-hitting-back-at-cybercriminals-hero_360_xxxtcg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishannimavat&label=Profile%20views&color=0e75b6&style=flat" alt="kishannimavat" /> </p>
