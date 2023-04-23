@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kishan Nimavat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
+<img align="right" alt="coding" width="400" src="https://static.wikia.nocookie.net/character-level/images/5/58/Hacking.gif/revision/latest/scale-to-width-down/690?cb=20190214152152">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishannimavat&label=Profile%20views&color=0e75b6&style=flat" alt="kishannimavat" /> </p>
