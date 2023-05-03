@@ -28,7 +28,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kishannimavat&" alt="kishannimavat" /></p>
 
 
-<picture>
+<picture align="right">
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=KishanNimavat&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
