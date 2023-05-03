@@ -11,8 +11,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kishan nimavat" target="blank"><img align="center" src="https://raw.githubusercontent.com/kishan nimavat/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan nimavat" height="30" width="40" /></a>
-<a href="https://instagram.com/kishan__nimavat" target="blank"><img align="center" src="https://raw.githubusercontent.com/kishan__nimavat/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishan__nimavat" height="30" width="40" /></a>
+<a href="https://twitter.com/kishan_nimavat_">
+  <img alt="Kishan Nimavat | Twitter" width="21px" src="https://user-images.githubusercontent.com/121854064/235952962-ce8a1968-054e-4a27-b5a6-076cfd357f25.png" />
+</a>
+<a href="https://www.linkedin.com/in/kishan-nimavat-a11412179/">
+  <img alt="Kishan Nimavat | Linkedin" width="21px" src="https://user-images.githubusercontent.com/121854064/235953378-70ad9345-21bc-4eff-9ea7-fb02bd8cbc5d.png" />
+</a>
+<a href="https://instagram.com/kishan__nimavat?igshid=ZDdkNTZiNTM=">
+  <img alt="Kishan Nimavat | Insta" width="21px" src="https://user-images.githubusercontent.com/121854064/235954366-6915cad4-170e-470b-8610-d0a87285001f.png" />
+</a>
 </p><br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +36,6 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=KishanNimavat&show_icons=true" />
-</picture>
+</picture><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishannimavat&" alt="kishannimavat" /></p>
